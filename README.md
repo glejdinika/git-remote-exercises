@@ -1,2 +1,2 @@
-# git-remote-exercises
+# Git Remote Exercises (edited in repo-clone)
 Git remote exercises
